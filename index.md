@@ -1,3 +1,3 @@
-*Check what's new by clicking the link on the left
+_Check what's new by clicking the link on the left_
 
 
