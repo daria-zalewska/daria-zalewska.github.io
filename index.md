@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Witam na mojej stronie
+
+Dopiero się uczę więc będę commitować sporo mało istotnych rzeczy
 
 You can use the [editor on GitHub](https://github.com/daria-zalewska/daria-zalewska.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
