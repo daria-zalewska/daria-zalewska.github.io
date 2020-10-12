@@ -1,5 +1,5 @@
 _Check what's new_
-# jfdzr2-project-1
-[Project 1](layout1)
+[projekt 1](https://daria-zalewska.github.io/jfdzr2-project-1/layout1/)
+
 
 
